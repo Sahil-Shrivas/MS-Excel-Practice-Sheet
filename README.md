@@ -31,9 +31,51 @@ The goal is to help you **learn Excel through real practice**.
 
 ---
 
+## ✨ Features  
+✔ Beginner to advanced practice sheets  
+✔ Covers data cleaning, reporting, and analysis  
+✔ PivotTable & Chart creation exercises  
+✔ Power Query-based ETL workflows  
+✔ Completely free to use  
+✔ Suitable for self-learning or training others  
+✔ Ideal for interview preparation  
+
+---
+
+## 🎯 Learning Outcomes  
+After working with these sheets, you will be able to:
+
+### 🔹 **Excel Fundamentals**
+- Formatting, formulas, referencing  
+- SUM, COUNT, IF, LOOKUP, TEXT functions  
+- Conditional formatting & data validation  
+
+### 🔹 **Data Cleaning & Transformation**
+- Remove duplicates  
+- Fix inconsistent values  
+- Combine and split columns  
+- Use text manipulation functions  
+
+### 🔹 **PivotTables & Reporting**
+- Build PivotTables from raw data  
+- Create charts, slicers, and reports  
+- Build mini dashboards  
+
+### 🔹 **Power Query (ETL)**
+- Import data from multiple sources  
+- Transform & clean large datasets  
+- Automate repetitive tasks  
+- Build query steps and reusable pipelines  
+
+### 🔹 **Data Analysis**
+- Summaries, aggregations, grouping  
+- Trend insights and visualization  
+- Proper dataset structuring  
+
+---
+
 ## 🚀 How to Use
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Sahil-Shrivas/MS-Excel-Practice-Sheet.git
+### 1️⃣ Clone the Repository  
+```bash
+git clone https://github.com/Sahil-Shrivas/MS-Excel-Practice-Sheet.git
